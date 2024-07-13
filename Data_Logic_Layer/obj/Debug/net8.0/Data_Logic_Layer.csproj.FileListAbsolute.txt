@@ -1,0 +1,14 @@
+E:\Internship\CIPlateFormAPI\Data_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.deps.json
+E:\Internship\CIPlateFormAPI\Data_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.runtimeconfig.json
+E:\Internship\CIPlateFormAPI\Data_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.dll
+E:\Internship\CIPlateFormAPI\Data_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.pdb
+E:\Internship\CIPlateFormAPI\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.csproj.AssemblyReference.cache
+E:\Internship\CIPlateFormAPI\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship\CIPlateFormAPI\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.AssemblyInfoInputs.cache
+E:\Internship\CIPlateFormAPI\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.AssemblyInfo.cs
+E:\Internship\CIPlateFormAPI\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.csproj.CoreCompileInputs.cache
+E:\Internship\CIPlateFormAPI\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.dll
+E:\Internship\CIPlateFormAPI\Data_Logic_Layer\obj\Debug\net8.0\refint\Data_Logic_Layer.dll
+E:\Internship\CIPlateFormAPI\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.pdb
+E:\Internship\CIPlateFormAPI\Data_Logic_Layer\obj\Debug\net8.0\Data_Logic_Layer.genruntimeconfig.cache
+E:\Internship\CIPlateFormAPI\Data_Logic_Layer\obj\Debug\net8.0\ref\Data_Logic_Layer.dll

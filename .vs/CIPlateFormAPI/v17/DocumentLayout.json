@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Internship\\CIPlateFormAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50B3FDF7-75ED-4E3F-9070-439DA09CD62A}|Data_Logic_Layer\\Data_Logic_Layer.csproj|e:\\internship\\ciplateformapi\\data_logic_layer\\daladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B3FDF7-75ED-4E3F-9070-439DA09CD62A}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\daladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B3FDF7-75ED-4E3F-9070-439DA09CD62A}|Data_Logic_Layer\\Data_Logic_Layer.csproj|e:\\internship\\ciplateformapi\\data_logic_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B3FDF7-75ED-4E3F-9070-439DA09CD62A}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8EAEAB-038D-4EC7-BA63-6094AC47B5B5}|Business_Logic_Layer\\Business_Logic_Layer.csproj|e:\\internship\\ciplateformapi\\business_logic_layer\\baladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8EAEAB-038D-4EC7-BA63-6094AC47B5B5}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\baladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B3FDF7-75ED-4E3F-9070-439DA09CD62A}|Data_Logic_Layer\\Data_Logic_Layer.csproj|e:\\internship\\ciplateformapi\\data_logic_layer\\entity\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B3FDF7-75ED-4E3F-9070-439DA09CD62A}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\entity\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0057B16B-6766-42A8-BCFC-69E8E20ED4B6}|CIPlateFormAPI\\CIPlateFormAPI.csproj|e:\\internship\\ciplateformapi\\ciplateformapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0057B16B-6766-42A8-BCFC-69E8E20ED4B6}|CIPlateFormAPI\\CIPlateFormAPI.csproj|solutionrelative:ciplateformapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B3FDF7-75ED-4E3F-9070-439DA09CD62A}|Data_Logic_Layer\\Data_Logic_Layer.csproj|e:\\internship\\ciplateformapi\\data_logic_layer\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B3FDF7-75ED-4E3F-9070-439DA09CD62A}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0057B16B-6766-42A8-BCFC-69E8E20ED4B6}|CIPlateFormAPI\\CIPlateFormAPI.csproj|e:\\internship\\ciplateformapi\\ciplateformapi\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0057B16B-6766-42A8-BCFC-69E8E20ED4B6}|CIPlateFormAPI\\CIPlateFormAPI.csproj|solutionrelative:ciplateformapi\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0057B16B-6766-42A8-BCFC-69E8E20ED4B6}|CIPlateFormAPI\\CIPlateFormAPI.csproj|e:\\internship\\ciplateformapi\\ciplateformapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0057B16B-6766-42A8-BCFC-69E8E20ED4B6}|CIPlateFormAPI\\CIPlateFormAPI.csproj|solutionrelative:ciplateformapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8EAEAB-038D-4EC7-BA63-6094AC47B5B5}|Business_Logic_Layer\\Business_Logic_Layer.csproj|e:\\internship\\ciplateformapi\\business_logic_layer\\ballogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8EAEAB-038D-4EC7-BA63-6094AC47B5B5}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\ballogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B3FDF7-75ED-4E3F-9070-439DA09CD62A}|Data_Logic_Layer\\Data_Logic_Layer.csproj|e:\\internship\\ciplateformapi\\data_logic_layer\\migrations\\20240705080855_table-userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B3FDF7-75ED-4E3F-9070-439DA09CD62A}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\migrations\\20240705080855_table-userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Internship\\CIPlateFormAPI\\Data_Logic_Layer\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Entity\\User.cs",
+              "ToolTip": "E:\\Internship\\CIPlateFormAPI\\Data_Logic_Layer\\Entity\\User.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Entity\\User.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:58:35.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\Internship\\CIPlateFormAPI\\CIPlateFormAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "CIPlateFormAPI\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\Internship\\CIPlateFormAPI\\CIPlateFormAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "CIPlateFormAPI\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:56:42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminUserController.cs",
+              "DocumentMoniker": "E:\\Internship\\CIPlateFormAPI\\CIPlateFormAPI\\Controllers\\AdminUserController.cs",
+              "RelativeDocumentMoniker": "CIPlateFormAPI\\Controllers\\AdminUserController.cs",
+              "ToolTip": "E:\\Internship\\CIPlateFormAPI\\CIPlateFormAPI\\Controllers\\AdminUserController.cs",
+              "RelativeToolTip": "CIPlateFormAPI\\Controllers\\AdminUserController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:17:41.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BALAdminUser.cs",
+              "DocumentMoniker": "E:\\Internship\\CIPlateFormAPI\\Business_Logic_Layer\\BALAdminUser.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\BALAdminUser.cs",
+              "ToolTip": "E:\\Internship\\CIPlateFormAPI\\Business_Logic_Layer\\BALAdminUser.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\BALAdminUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:23:41.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DALAdminUser.cs",
+              "DocumentMoniker": "E:\\Internship\\CIPlateFormAPI\\Data_Logic_Layer\\DALAdminUser.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\DALAdminUser.cs",
+              "ToolTip": "E:\\Internship\\CIPlateFormAPI\\Data_Logic_Layer\\DALAdminUser.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\DALAdminUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:24:03.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DALLogin.cs",
+              "DocumentMoniker": "E:\\Internship\\CIPlateFormAPI\\Data_Logic_Layer\\DALLogin.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\DALLogin.cs",
+              "ToolTip": "E:\\Internship\\CIPlateFormAPI\\Data_Logic_Layer\\DALLogin.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\DALLogin.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:06:51.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Internship\\CIPlateFormAPI\\CIPlateFormAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CIPlateFormAPI\\Program.cs",
+              "ToolTip": "E:\\Internship\\CIPlateFormAPI\\CIPlateFormAPI\\Program.cs",
+              "RelativeToolTip": "CIPlateFormAPI\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:25:03.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDBContex.cs",
+              "DocumentMoniker": "E:\\Internship\\CIPlateFormAPI\\Data_Logic_Layer\\Entity\\AppDBContex.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Entity\\AppDBContex.cs",
+              "ToolTip": "E:\\Internship\\CIPlateFormAPI\\Data_Logic_Layer\\Entity\\AppDBContex.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Entity\\AppDBContex.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:14:04.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240705080855_table-userdetail.cs",
+              "DocumentMoniker": "E:\\Internship\\CIPlateFormAPI\\Data_Logic_Layer\\Migrations\\20240705080855_table-userdetail.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Migrations\\20240705080855_table-userdetail.cs",
+              "ToolTip": "E:\\Internship\\CIPlateFormAPI\\Data_Logic_Layer\\Migrations\\20240705080855_table-userdetail.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Migrations\\20240705080855_table-userdetail.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:08:56.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BALLogin.cs",
+              "DocumentMoniker": "E:\\Internship\\CIPlateFormAPI\\Business_Logic_Layer\\BALLogin.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\BALLogin.cs",
+              "ToolTip": "E:\\Internship\\CIPlateFormAPI\\Business_Logic_Layer\\BALLogin.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\BALLogin.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:02:23.176Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+E:\Internship\CIPlateFormAPI\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.deps.json
+E:\Internship\CIPlateFormAPI\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.dll
+E:\Internship\CIPlateFormAPI\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.pdb
+E:\Internship\CIPlateFormAPI\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship\CIPlateFormAPI\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.AssemblyInfoInputs.cache
+E:\Internship\CIPlateFormAPI\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.AssemblyInfo.cs
+E:\Internship\CIPlateFormAPI\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.csproj.CoreCompileInputs.cache
+E:\Internship\CIPlateFormAPI\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.dll
+E:\Internship\CIPlateFormAPI\Business_Logic_Layer\obj\Debug\net8.0\refint\Business_Logic_Layer.dll
+E:\Internship\CIPlateFormAPI\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.pdb
+E:\Internship\CIPlateFormAPI\Business_Logic_Layer\obj\Debug\net8.0\ref\Business_Logic_Layer.dll
+E:\Internship\CIPlateFormAPI\Business_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.dll
+E:\Internship\CIPlateFormAPI\Business_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.pdb
+E:\Internship\CIPlateFormAPI\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.csproj.AssemblyReference.cache
+E:\Internship\CIPlateFormAPI\Business_Logic_Layer\obj\Debug\net8.0\Business.2FEBA881.Up2Date
